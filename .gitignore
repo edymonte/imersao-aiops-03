@@ -104,3 +104,7 @@ node_modules/
 # .tern-port
 
 *.Identifier
+
+# Block media/image files from being committed to the remote repository
+*.mkv
+*.png
